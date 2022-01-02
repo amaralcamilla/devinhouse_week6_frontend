@@ -1,2 +1,1 @@
-# devinhouse_week6
-Exercícios desenvolvidos durante a semana 6 do curso DEVinHouse - SENAI.
+# Exercícios desenvolvidos na semana 6 do primeiro módulo do curso DEVinHouse - SENAI.
